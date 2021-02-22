@@ -8,3 +8,6 @@ int a,b;
 int k = sum(a,b);
 printf("%d",k);
 }
+int sum(int a,int b){
+return a+b;
+}
